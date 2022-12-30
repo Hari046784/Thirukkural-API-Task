@@ -1,0 +1,26 @@
+#container{
+    background-color: rgb(56, 225, 225);
+    border: 5px solid brown;
+    border-radius: 20px;
+}
+.alignment{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#align{
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+.info{
+    font-size: 25px;
+    color: red;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: 2px solid brown;
+    }
+#form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+};
